@@ -1,5 +1,5 @@
 - ☠️ Hi, I’m @Quatrixas
-- 💀 Self Ilustrator and programer 
+- 💀 Self Ilustrator and  curious programer 
 - 👀 I’m interested in Game Hacking 
 - 📫 How to reach me (You Cant)
 - ⚡ Fun fact: Print("Fun Fact")              👈did you see it ?
